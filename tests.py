@@ -1,7 +1,7 @@
 from unittest import TestCase
 import unittest
 
-from .main import large_number
+from main import large_number
 
 
 class Challenge2TestCase(TestCase):
